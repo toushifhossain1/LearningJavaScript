@@ -21,3 +21,4 @@ document.write("The 3 sf of number is : " + num1.toPrecision(3))
 stringNumber = "25.5"
 numberStringModified = Number(stringNumber)
 document.write("Converted from string to number: " + numberStringModified)
+
